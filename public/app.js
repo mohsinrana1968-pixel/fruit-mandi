@@ -1,4 +1,4 @@
-const API = "http://localhost:3000";
+const API = "https://fruit-mandi-production.up.railway.app";
 let txType = "borrow";
 
 // ============ INIT ============
